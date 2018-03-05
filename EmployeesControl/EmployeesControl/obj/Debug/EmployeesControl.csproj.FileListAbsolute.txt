@@ -1,0 +1,28 @@
+c:\users\informatica\documents\visual studio 2015\Projects\EmployeesControl\EmployeesControl\bin\Debug\EmployeesControl.exe.config
+c:\users\informatica\documents\visual studio 2015\Projects\EmployeesControl\EmployeesControl\bin\Debug\EmployeesControl.exe
+c:\users\informatica\documents\visual studio 2015\Projects\EmployeesControl\EmployeesControl\bin\Debug\EmployeesControl.pdb
+c:\users\informatica\documents\visual studio 2015\Projects\EmployeesControl\EmployeesControl\obj\Debug\EmployeesControl.csprojResolveAssemblyReference.cache
+c:\users\informatica\documents\visual studio 2015\Projects\EmployeesControl\EmployeesControl\obj\Debug\EmployeesControl.exe
+c:\users\informatica\documents\visual studio 2015\Projects\EmployeesControl\EmployeesControl\obj\Debug\EmployeesControl.pdb
+C:\Users\sk8Guerra\Documents\Visual Studio 2015\Projects\EmployeesControl\EmployeesControl\bin\Debug\EmployeesControl.exe.config
+C:\Users\sk8Guerra\Documents\Visual Studio 2015\Projects\EmployeesControl\EmployeesControl\obj\Debug\EmployeesControl.exe
+C:\Users\sk8Guerra\Documents\Visual Studio 2015\Projects\EmployeesControl\EmployeesControl\obj\Debug\EmployeesControl.pdb
+C:\Users\sk8Guerra\Documents\Visual Studio 2015\Projects\EmployeesControl\EmployeesControl\bin\Debug\EmployeesControl.exe
+C:\Users\sk8Guerra\Documents\Visual Studio 2015\Projects\EmployeesControl\EmployeesControl\bin\Debug\EmployeesControl.pdb
+C:\Users\sk8Guerra\Documents\Visual Studio 2015\Projects\EmployeesControl\EmployeesControl\obj\Debug\EmployeesControl.csprojResolveAssemblyReference.cache
+D:\EmployeesControl\EmployeesControl\bin\Debug\EmployeesControl.exe.config
+D:\EmployeesControl\EmployeesControl\obj\Debug\EmployeesControl.exe
+D:\EmployeesControl\EmployeesControl\obj\Debug\EmployeesControl.pdb
+D:\EmployeesControl\EmployeesControl\bin\Debug\EmployeesControl.exe
+D:\EmployeesControl\EmployeesControl\bin\Debug\EmployeesControl.pdb
+D:\EmployeesControl\EmployeesControl\obj\Debug\EmployeesControl.csprojResolveAssemblyReference.cache
+C:\Users\sk8Guerra\Google Drive\6th grade\Werksteller\IIB\C#\Control de empleados\EmployeesControl\EmployeesControl\bin\Debug\EmployeesControl.exe.config
+C:\Users\sk8Guerra\Google Drive\6th grade\Werksteller\IIB\C#\Control de empleados\EmployeesControl\EmployeesControl\obj\Debug\EmployeesControl.exe
+C:\Users\sk8Guerra\Google Drive\6th grade\Werksteller\IIB\C#\Control de empleados\EmployeesControl\EmployeesControl\obj\Debug\EmployeesControl.pdb
+C:\Users\Jorge Guerra\Google Drive\Programación\C#\Control de empleados\EmployeesControl\EmployeesControl\bin\Debug\EmployeesControl.exe.config
+C:\Users\Jorge Guerra\Google Drive\Programación\C#\Control de empleados\EmployeesControl\EmployeesControl\bin\Debug\EmployeesControl.exe
+C:\Users\Jorge Guerra\Google Drive\Programación\C#\Control de empleados\EmployeesControl\EmployeesControl\bin\Debug\EmployeesControl.pdb
+C:\Users\Jorge Guerra\Google Drive\Programación\C#\Control de empleados\EmployeesControl\EmployeesControl\obj\Debug\EmployeesControl.csprojResolveAssemblyReference.cache
+C:\Users\Jorge Guerra\Google Drive\Programación\C#\Control de empleados\EmployeesControl\EmployeesControl\obj\Debug\EmployeesControl.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Guerra\Google Drive\Programación\C#\Control de empleados\EmployeesControl\EmployeesControl\obj\Debug\EmployeesControl.exe
+C:\Users\Jorge Guerra\Google Drive\Programación\C#\Control de empleados\EmployeesControl\EmployeesControl\obj\Debug\EmployeesControl.pdb

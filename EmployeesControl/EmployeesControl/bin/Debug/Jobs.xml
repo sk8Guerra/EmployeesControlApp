@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfJob xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Job>
+    <IdJob>1</IdJob>
+    <JobName>Gerente</JobName>
+  </Job>
+  <Job>
+    <IdJob>2</IdJob>
+    <JobName>Supervisor</JobName>
+  </Job>
+  <Job>
+    <IdJob>3</IdJob>
+    <JobName>Desarrollador Desktop</JobName>
+  </Job>
+  <Job>
+    <IdJob>4</IdJob>
+    <JobName>Desarrollador Web</JobName>
+  </Job>
+  <Job>
+    <IdJob>5</IdJob>
+    <JobName>Desarrollador Mobil</JobName>
+  </Job>
+  <Job>
+    <IdJob>6</IdJob>
+    <JobName>Contador</JobName>
+  </Job>
+  <Job>
+    <IdJob>7</IdJob>
+    <JobName>Auditor</JobName>
+  </Job>
+  <Job>
+    <IdJob>8</IdJob>
+    <JobName>Secretaria</JobName>
+  </Job>
+  <Job>
+    <IdJob>9</IdJob>
+    <JobName>Repartidor</JobName>
+  </Job>
+</ArrayOfJob>

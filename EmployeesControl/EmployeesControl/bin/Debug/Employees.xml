@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <IdEmployee>1</IdEmployee>
+    <Name>Pedro Andres</Name>
+    <LastName>Guerrero Pacaya</LastName>
+    <Address>35 calle A Zona 20</Address>
+    <PhoneNumber>4596-3420</PhoneNumber>
+    <Salary>5000</Salary>
+    <WorkStation>
+      <IdJob>2</IdJob>
+      <JobName>Supervisor</JobName>
+    </WorkStation>
+    <Section>
+      <IdDepartament>1</IdDepartament>
+      <DepartmentName>Desarrollo Web</DepartmentName>
+    </Section>
+  </Employee>
+  <Employee>
+    <IdEmployee>2</IdEmployee>
+    <Name>Karla Andrea</Name>
+    <LastName>Veliz Corado</LastName>
+    <Address>54 ave 1 - 78 Zona 20</Address>
+    <PhoneNumber>3402-4564</PhoneNumber>
+    <Salary>6000</Salary>
+    <WorkStation>
+      <IdJob>2</IdJob>
+      <JobName>Supervisor</JobName>
+    </WorkStation>
+    <Section>
+      <IdDepartament>1</IdDepartament>
+      <DepartmentName>Desarrollo Web</DepartmentName>
+    </Section>
+  </Employee>
+  <Employee>
+    <IdEmployee>3</IdEmployee>
+    <Name>Juan Jose</Name>
+    <LastName>Larrave Avila</LastName>
+    <Address>12 calle Zona 20 Colonia Los Tulipanes</Address>
+    <PhoneNumber>3425-6534</PhoneNumber>
+    <Salary>10000</Salary>
+    <WorkStation>
+      <IdJob>1</IdJob>
+      <JobName>Gerente</JobName>
+    </WorkStation>
+    <Section>
+      <IdDepartament>2</IdDepartament>
+      <DepartmentName>Desarrollo Movil</DepartmentName>
+    </Section>
+  </Employee>
+  <Employee>
+    <IdEmployee>4</IdEmployee>
+    <Name>Joaquin Larrave </Name>
+    <LastName>Guillermo Avila</LastName>
+    <Address>24 ave 3 - 54</Address>
+    <PhoneNumber>4523 - 9586</PhoneNumber>
+    <Salary>5000</Salary>
+    <WorkStation>
+      <IdJob>3</IdJob>
+      <JobName>Desarrollador Desktop</JobName>
+    </WorkStation>
+    <Section>
+      <IdDepartament>10</IdDepartament>
+      <DepartmentName>Back End</DepartmentName>
+    </Section>
+  </Employee>
+  <Employee>
+    <IdEmployee>5</IdEmployee>
+    <Name>Luis Andres</Name>
+    <LastName>Garcia Perez</LastName>
+    <Address>34 calle saber</Address>
+    <PhoneNumber>56342354</PhoneNumber>
+    <Salary>10000</Salary>
+    <WorkStation>
+      <IdJob>5</IdJob>
+      <JobName>Desarrollador Mobil</JobName>
+    </WorkStation>
+    <Section>
+      <IdDepartament>2</IdDepartament>
+      <DepartmentName>Desarrollo Movil</DepartmentName>
+    </Section>
+  </Employee>
+  <Employee>
+    <IdEmployee>6</IdEmployee>
+    <Name>Guario Mario</Name>
+    <LastName>Sesenta Beta</LastName>
+    <Address>54 ave 1 - 56</Address>
+    <PhoneNumber>4534-0965</PhoneNumber>
+    <Salary>50000</Salary>
+    <WorkStation>
+      <IdJob>6</IdJob>
+      <JobName>Contador</JobName>
+    </WorkStation>
+    <Section>
+      <IdDepartament>8</IdDepartament>
+      <DepartmentName>Financiera</DepartmentName>
+    </Section>
+  </Employee>
+  <Employee>
+    <IdEmployee>7</IdEmployee>
+    <Name>Samuel Geronimo</Name>
+    <LastName>ONeill Oliveira</LastName>
+    <Address>34 ave 1 - 43</Address>
+    <PhoneNumber>5432-2354</PhoneNumber>
+    <Salary>4000</Salary>
+    <WorkStation>
+      <IdJob>9</IdJob>
+      <JobName>Repartidor</JobName>
+    </WorkStation>
+    <Section>
+      <IdDepartament>13</IdDepartament>
+      <DepartmentName>Entrega a Domicilio</DepartmentName>
+    </Section>
+  </Employee>
+  <Employee>
+    <IdEmployee>8</IdEmployee>
+    <Name>Ana Maria</Name>
+    <LastName>Lucero Guerrero</LastName>
+    <Address>Casa 45 Colonia Los perros Zona 40</Address>
+    <PhoneNumber>5434-2343</PhoneNumber>
+    <Salary>5000</Salary>
+    <WorkStation>
+      <IdJob>8</IdJob>
+      <JobName>Secretaria</JobName>
+    </WorkStation>
+    <Section>
+      <IdDepartament>5</IdDepartament>
+      <DepartmentName>Recursos Humanos</DepartmentName>
+    </Section>
+  </Employee>
+  <Employee>
+    <IdEmployee>9</IdEmployee>
+    <Name>Alicia Maribel</Name>
+    <LastName>Muller Schneider</LastName>
+    <Address>15 cashe Colonia Los Skatos</Address>
+    <PhoneNumber>12345678</PhoneNumber>
+    <Salary>6000</Salary>
+    <WorkStation>
+      <IdJob>1</IdJob>
+      <JobName>Gerente</JobName>
+    </WorkStation>
+    <Section>
+      <IdDepartament>12</IdDepartament>
+      <DepartmentName>Bases de Datos</DepartmentName>
+    </Section>
+  </Employee>
+  <Employee>
+    <IdEmployee>10</IdEmployee>
+    <Name>Yokio Mtura</Name>
+    <LastName>Kenji Molina</LastName>
+    <Address>Knojoi 20 El Retorno</Address>
+    <PhoneNumber>2345-2354</PhoneNumber>
+    <Salary>4000</Salary>
+    <WorkStation>
+      <IdJob>7</IdJob>
+      <JobName>Auditor</JobName>
+    </WorkStation>
+    <Section>
+      <IdDepartament>8</IdDepartament>
+      <DepartmentName>Financiera</DepartmentName>
+    </Section>
+  </Employee>
+  <Employee>
+    <IdEmployee>12</IdEmployee>
+    <Name>Juana Elizabeth</Name>
+    <LastName>Reina Maria</LastName>
+    <Address>12 ave Calle El Infiernito</Address>
+    <PhoneNumber>1234-0986</PhoneNumber>
+    <Salary>10000</Salary>
+    <WorkStation>
+      <IdJob>1</IdJob>
+      <JobName>Gerente</JobName>
+    </WorkStation>
+    <Section>
+      <IdDepartament>11</IdDepartament>
+      <DepartmentName>Front End</DepartmentName>
+    </Section>
+  </Employee>
+  <Employee>
+    <IdEmployee>13</IdEmployee>
+    <Name>Jorge ROberto </Name>
+    <LastName>Guerra Solorzano</LastName>
+    <Address>12 ave 1 - 73</Address>
+    <PhoneNumber>12345678</PhoneNumber>
+    <Salary>20000</Salary>
+    <WorkStation>
+      <IdJob>1</IdJob>
+      <JobName>Gerente</JobName>
+    </WorkStation>
+    <Section>
+      <IdDepartament>3</IdDepartament>
+      <DepartmentName>Desarrollo Desktop</DepartmentName>
+    </Section>
+  </Employee>
+  <Employee>
+    <IdEmployee>14</IdEmployee>
+    <Name>Adrian Jose</Name>
+    <LastName>Guerra Solorzano</LastName>
+    <Address>45 calle</Address>
+    <PhoneNumber>45678923</PhoneNumber>
+    <Salary>15000</Salary>
+    <WorkStation>
+      <IdJob>6</IdJob>
+      <JobName>Contador</JobName>
+    </WorkStation>
+    <Section>
+      <IdDepartament>7</IdDepartament>
+      <DepartmentName>Evaluacion de Calidad</DepartmentName>
+    </Section>
+  </Employee>
+  <Employee>
+    <IdEmployee>15</IdEmployee>
+    <Name>Jesus Alejando </Name>
+    <LastName>Matias Bolloj</LastName>
+    <Address>12 calle</Address>
+    <PhoneNumber>12345678</PhoneNumber>
+    <Salary>4000</Salary>
+    <WorkStation>
+      <IdJob>4</IdJob>
+      <JobName>Desarrollador Web</JobName>
+    </WorkStation>
+    <Section>
+      <IdDepartament>9</IdDepartament>
+      <DepartmentName>Servicios Web</DepartmentName>
+    </Section>
+  </Employee>
+  <Employee>
+    <IdEmployee>15</IdEmployee>
+    <Name>jorge</Name>
+    <LastName>guera</LastName>
+    <Address>14 ave 1 - 73</Address>
+    <PhoneNumber>12345788</PhoneNumber>
+    <Salary>500</Salary>
+    <WorkStation>
+      <IdJob>6</IdJob>
+      <JobName>Contador</JobName>
+    </WorkStation>
+    <Section>
+      <IdDepartament>12</IdDepartament>
+      <DepartmentName>Bases de Datos</DepartmentName>
+    </Section>
+  </Employee>
+</ArrayOfEmployee>

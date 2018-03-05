@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<ArrayOfDepartment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Department>
+    <IdDepartament>1</IdDepartament>
+    <DepartmentName>Desarrollo Web</DepartmentName>
+  </Department>
+  <Department>
+    <IdDepartament>2</IdDepartament>
+    <DepartmentName>Desarrollo Movil</DepartmentName>
+  </Department>
+  <Department>
+    <IdDepartament>3</IdDepartament>
+    <DepartmentName>Desarrollo Desktop</DepartmentName>
+  </Department>
+  <Department>
+    <IdDepartament>4</IdDepartament>
+    <DepartmentName>Desarrollo Intelctual</DepartmentName>
+  </Department>
+  <Department>
+    <IdDepartament>5</IdDepartament>
+    <DepartmentName>Recursos Humanos</DepartmentName>
+  </Department>
+  <Department>
+    <IdDepartament>6</IdDepartament>
+    <DepartmentName>Comida</DepartmentName>
+  </Department>
+  <Department>
+    <IdDepartament>7</IdDepartament>
+    <DepartmentName>Evaluacion de Calidad</DepartmentName>
+  </Department>
+  <Department>
+    <IdDepartament>8</IdDepartament>
+    <DepartmentName>Financiera</DepartmentName>
+  </Department>
+  <Department>
+    <IdDepartament>9</IdDepartament>
+    <DepartmentName>Servicios Web</DepartmentName>
+  </Department>
+  <Department>
+    <IdDepartament>10</IdDepartament>
+    <DepartmentName>Back End</DepartmentName>
+  </Department>
+  <Department>
+    <IdDepartament>11</IdDepartament>
+    <DepartmentName>Front End</DepartmentName>
+  </Department>
+  <Department>
+    <IdDepartament>12</IdDepartament>
+    <DepartmentName>Bases de Datos</DepartmentName>
+  </Department>
+  <Department>
+    <IdDepartament>13</IdDepartament>
+    <DepartmentName>Entrega a Domicilio</DepartmentName>
+  </Department>
+  <Department>
+    <IdDepartament>14</IdDepartament>
+    <DepartmentName>Relaciones Exteriores</DepartmentName>
+  </Department>
+  <Department>
+    <IdDepartament>15</IdDepartament>
+    <DepartmentName>Higiene y Salud</DepartmentName>
+  </Department>
+  <Department>
+    <IdDepartament>16</IdDepartament>
+    <DepartmentName>Relaciones Internacionales</DepartmentName>
+  </Department>
+</ArrayOfDepartment>
